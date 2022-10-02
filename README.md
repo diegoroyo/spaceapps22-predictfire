@@ -6,7 +6,7 @@ Team: Sin Rocket no hay Paraíso
 * David Morilla
 * Lorenzo Cano
 * Andrés Fandos
-* Pedro Orús
+* Pedro Orós
 
 TL;DR
 
